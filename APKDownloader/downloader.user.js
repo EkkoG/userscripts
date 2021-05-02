@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Google Play APK downloader
 // @namespace    https://imciel.com/
-// @version      0.1
-// @description  add a download button (https://apps.evozi.com/apk-downloader/?id=xxx) to Google Play pages (play.google.com/store/apps/details?id=xxx)
+// @version      0.2
+// @description  add APK download buttons to Google Play
 // @author       cielpy
 // @match        https://play.google.com/store/apps/details?id=*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
